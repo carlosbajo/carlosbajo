@@ -4,7 +4,7 @@
    I design and develop user-friendly web applications using the latest technologies and best practices.
 
 ### 🌱 My skills:
-| Front-ed  |   Backend | DevOPs |
+| Front-end  |   Backend | DevOps |
 |---|---|---|
 |Javascript | Node.js| Gitlab CI/CD |
 |Typescript | Services | TeamCity |
