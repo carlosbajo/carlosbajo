@@ -11,16 +11,7 @@
 |HTML5| Microservices | Kubernetes |
 |CSS3| Queues | Docker |
 |Bootstrap| AWS | Shell |
-| | | |
 
-### 💼 My experience:
-    Company Name 1, Senior Front-End Engineer, 2018 - Present
-    Company Name 2, Front-End Engineer, 2016 - 2018
-    Company Name 3, Front-End Developer, 2014 - 2016
-### 🌟 My achievements:
-    Developed a high-performance web application for [Client Name] that improved their customer engagement by 50%.
-    Mentored and trained junior developers, resulting in a 30% increase in team productivity.
-    Contributed to open-source projects such as [Project Name] and [Project Name], with over 1000 stars on Github.
 ### 📫 How to reach me:
 - Email: carlosabpreciado@gmail.com
 - LinkedIn: [carlosetbajo](https://www.linkedin.com/in/carlosetbajo/)
